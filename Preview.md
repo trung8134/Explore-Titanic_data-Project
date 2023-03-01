@@ -4,5 +4,6 @@
 - Sql
 - Python
 - Power Bi
+- Orther
 ## Machine learning projects will be executed in the following order:
 #### Scoping -> Data -> Modelling -> Deployment 
